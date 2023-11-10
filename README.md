@@ -54,4 +54,4 @@ This project involves implementing an N-Body Simulation in Java based on the ass
 
 Lily Eli Goloh
 
-Feel free to explore and enhance the simulation according to your interests and the suggestions provided in the assignment page and checklist. Happy coding!
+Feel free to explore and enhance the simulation according to your interests. Happy coding!
